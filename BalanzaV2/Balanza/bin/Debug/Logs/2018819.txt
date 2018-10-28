@@ -1,0 +1,116 @@
+Fecha: 19-Aug-18 2:23:24 PM
+Detalle: Ticket Generado:010-000009
+Fecha: 19-Aug-18 2:25:41 PM
+Detalle: puertoSerial: COM2
+Fecha: 19-Aug-18 2:25:41 PM
+Detalle: baudRateSerial:9600
+Fecha: 19-Aug-18 2:25:41 PM
+Detalle: dataBitsSerial: 8
+Fecha: 19-Aug-18 2:25:42 PM
+Detalle: StartListening
+Fecha: 19-Aug-18 2:25:43 PM
+Detalle: _serialPort_DataReceived
+Fecha: 19-Aug-18 2:25:43 PM
+Detalle: _serialPort_DataReceived
+Fecha: 19-Aug-18 2:25:43 PM
+Detalle: trama: ?0   4323423453
+Fecha: 19-Aug-18 2:25:43 PM
+Detalle: tamanio: 15
+Fecha: 19-Aug-18 2:25:43 PM
+Detalle: Salto inicio trama: True
+Fecha: 19-Aug-18 2:25:43 PM
+Detalle: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 19-Aug-18 2:25:43 PM
+Detalle: Error leyendo puerto: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 19-Aug-18 2:25:44 PM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 19-Aug-18 2:25:45 PM
+Detalle: _serialPort_DataReceived
+Fecha: 19-Aug-18 2:25:45 PM
+Detalle: trama: 
+?0   4323423453
+Fecha: 19-Aug-18 2:25:45 PM
+Detalle: _serialPort_DataReceived
+Fecha: 19-Aug-18 2:25:46 PM
+Detalle: tamanio: 16
+Fecha: 19-Aug-18 2:25:46 PM
+Detalle: Salto inicio trama: True
+Fecha: 19-Aug-18 2:25:46 PM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 19-Aug-18 2:26:00 PM
+Detalle: _serialPort_DataReceived
+Fecha: 19-Aug-18 2:26:00 PM
+Detalle: trama: 
+?0   43234234533
+Fecha: 19-Aug-18 2:26:00 PM
+Detalle: _serialPort_DataReceived
+Fecha: 19-Aug-18 2:26:00 PM
+Detalle: tamanio: 17
+Fecha: 19-Aug-18 2:26:00 PM
+Detalle: Salto inicio trama: True
+Fecha: 19-Aug-18 2:26:00 PM
+Detalle: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 19-Aug-18 2:26:00 PM
+Detalle: Error leyendo puerto: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 19-Aug-18 2:26:01 PM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 19-Aug-18 2:26:02 PM
+Detalle: _serialPort_DataReceived
+Fecha: 19-Aug-18 2:26:02 PM
+Detalle: trama: 
+?0   43234234533
+Fecha: 19-Aug-18 2:26:02 PM
+Detalle: _serialPort_DataReceived
+Fecha: 19-Aug-18 2:26:03 PM
+Detalle: tamanio: 17
+Fecha: 19-Aug-18 2:26:03 PM
+Detalle: Salto inicio trama: True
+Fecha: 19-Aug-18 2:26:03 PM
+Detalle: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 19-Aug-18 2:26:03 PM
+Detalle: Error leyendo puerto: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 19-Aug-18 2:26:04 PM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 19-Aug-18 2:26:05 PM
+Detalle: _serialPort_DataReceived
+Fecha: 19-Aug-18 2:26:05 PM
+Detalle: trama: 
+?0   43234234533
+Fecha: 19-Aug-18 2:26:05 PM
+Detalle: _serialPort_DataReceived
+Fecha: 19-Aug-18 2:26:06 PM
+Detalle: tamanio: 17
+Fecha: 19-Aug-18 2:26:06 PM
+Detalle: Salto inicio trama: True
+Fecha: 19-Aug-18 2:26:06 PM
+Detalle: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 19-Aug-18 2:26:06 PM
+Detalle: Error leyendo puerto: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 19-Aug-18 2:26:07 PM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 19-Aug-18 2:26:08 PM
+Detalle: _serialPort_DataReceived
+Fecha: 19-Aug-18 2:26:08 PM
+Detalle: trama: 
+?0   4323423453
+Fecha: 19-Aug-18 2:26:08 PM
+Detalle: _serialPort_DataReceived
+Fecha: 19-Aug-18 2:26:09 PM
+Detalle: tamanio: 16
+Fecha: 19-Aug-18 2:26:09 PM
+Detalle: Salto inicio trama: True
+Fecha: 19-Aug-18 2:26:10 PM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 19-Aug-18 2:26:26 PM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 19-Aug-18 2:26:32 PM
+Detalle: Error calculando el peso neto: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Fecha: 19-Aug-18 2:26:37 PM
+Detalle: Error calculando el peso neto: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Fecha: 19-Aug-18 2:26:37 PM
+Detalle: Error calculando el peso neto: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Fecha: 19-Aug-18 2:29:59 PM
+Detalle: Ticket Generado:010-0000010

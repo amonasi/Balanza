@@ -1,0 +1,3560 @@
+Fecha: 09-Jun-18 12:06:28 AM
+Detalle: Ticket Generado:010-000003
+Fecha: 09-Jun-18 12:08:15 AM
+Detalle: puertoSerial: COM1
+Fecha: 09-Jun-18 12:08:15 AM
+Detalle: baudRateSerial:9600
+Fecha: 09-Jun-18 12:08:15 AM
+Detalle: dataBitsSerial: 8
+Fecha: 09-Jun-18 12:08:15 AM
+Detalle: StartListening
+Fecha: 09-Jun-18 12:08:15 AM
+Detalle: StartListeningException: Access to the port 'COM1' is denied.
+Fecha: 09-Jun-18 12:08:24 AM
+Detalle: puertoSerial: COM2
+Fecha: 09-Jun-18 12:08:24 AM
+Detalle: baudRateSerial:9600
+Fecha: 09-Jun-18 12:08:24 AM
+Detalle: dataBitsSerial: 8
+Fecha: 09-Jun-18 12:08:24 AM
+Detalle: StartListening
+Fecha: 09-Jun-18 12:08:26 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:08:26 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:08:26 AM
+Detalle: trama: 09/06/1800:08:26  0200:35:07 593379       
+Fecha: 09-Jun-18 12:08:26 AM
+Detalle: tamanio: 42
+Fecha: 09-Jun-18 12:08:26 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:08:26 AM
+Detalle: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 09-Jun-18 12:08:26 AM
+Detalle: Error leyendo puerto: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 09-Jun-18 12:08:27 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:08:29 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:08:29 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:08:29 AM
+Detalle: trama: 
+09/06/1800:08:29  0200:06:59 168963       
+Fecha: 09-Jun-18 12:08:29 AM
+Detalle: tamanio: 43
+Fecha: 09-Jun-18 12:08:29 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:08:29 AM
+Detalle: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 09-Jun-18 12:08:29 AM
+Detalle: Error leyendo puerto: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 09-Jun-18 12:08:30 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:08:32 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:08:32 AM
+Detalle: trama: 
+09/06/1800:08:32  0200:07:49 2252006      
+Fecha: 09-Jun-18 12:08:32 AM
+Detalle: tamanio: 43
+Fecha: 09-Jun-18 12:08:32 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:08:32 AM
+Detalle: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 09-Jun-18 12:08:32 AM
+Detalle: Error leyendo puerto: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 09-Jun-18 12:08:32 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:08:33 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:08:35 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:08:35 AM
+Detalle: trama: 
+09/06/1800:08:35  0200:08:37 6800648      
+Fecha: 09-Jun-18 12:08:35 AM
+Detalle: tamanio: 43
+Fecha: 09-Jun-18 12:08:35 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:08:35 AM
+Detalle: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 09-Jun-18 12:08:35 AM
+Detalle: Error leyendo puerto: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 09-Jun-18 12:08:35 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:08:36 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:08:38 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:08:38 AM
+Detalle: trama: 
+09/06/1800:08:38  0200:12:31 748751       
+Fecha: 09-Jun-18 12:08:38 AM
+Detalle: tamanio: 43
+Fecha: 09-Jun-18 12:08:38 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:08:38 AM
+Detalle: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 09-Jun-18 12:08:38 AM
+Detalle: Error leyendo puerto: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 09-Jun-18 12:08:38 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:08:39 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:10:31 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:10:31 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:10:31 AM
+Detalle: trama: 
+?0  42345 63464
+Fecha: 09-Jun-18 12:10:31 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:10:31 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:10:32 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:10:34 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:10:34 AM
+Detalle: trama: 
+?0  42345 63464
+Fecha: 09-Jun-18 12:10:34 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:10:34 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:10:34 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:10:35 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:10:37 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:10:37 AM
+Detalle: trama: 
+?0  42345 63464
+Fecha: 09-Jun-18 12:10:37 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:10:37 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:10:37 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:10:38 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:10:40 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:10:40 AM
+Detalle: trama: 
+?0  42345 63464
+Fecha: 09-Jun-18 12:10:40 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:10:40 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:10:40 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:10:41 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:10:43 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:10:43 AM
+Detalle: trama: 
+?0  42345 63464
+Fecha: 09-Jun-18 12:10:43 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:10:43 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:10:43 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:10:44 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:10:46 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:10:46 AM
+Detalle: trama: 
+?0  42345 63464
+Fecha: 09-Jun-18 12:10:46 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:10:46 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:10:46 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:10:47 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:10:49 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:10:49 AM
+Detalle: trama: 
+?0  42345 63464
+Fecha: 09-Jun-18 12:10:49 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:10:49 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:10:49 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:10:50 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:10:52 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:10:52 AM
+Detalle: trama: 
+?0  42345 63464
+Fecha: 09-Jun-18 12:10:52 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:10:52 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:10:52 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:10:53 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:10:55 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:10:55 AM
+Detalle: trama: 
+?0  42345 63464
+Fecha: 09-Jun-18 12:10:55 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:10:55 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:10:55 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:10:56 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:10:58 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:10:58 AM
+Detalle: trama: 
+?0  42345 63464
+Fecha: 09-Jun-18 12:10:58 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:10:58 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:10:58 AM
+Detalle: DisposeSerial
+Fecha: 09-Jun-18 12:10:58 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:10:59 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:11:01 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:11:01 AM
+Detalle: trama: 
+?0  42345 63464
+Fecha: 09-Jun-18 12:11:01 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:11:01 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:11:01 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:11:02 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:11:06 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:11:06 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:11:06 AM
+Detalle: trama: 
+?0  42345 63464
+Fecha: 09-Jun-18 12:11:06 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:11:06 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:11:06 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:11:07 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:11:07 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:11:07 AM
+Detalle: trama: 
+?0  42345 63464
+Fecha: 09-Jun-18 12:11:07 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:11:07 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:11:07 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:11:08 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:11:10 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:11:10 AM
+Detalle: trama: 
+?0  42345 63464
+Fecha: 09-Jun-18 12:11:10 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:11:10 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:11:10 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:11:11 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:11:13 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:11:13 AM
+Detalle: trama: 
+?0  42345 63464
+Fecha: 09-Jun-18 12:11:13 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:11:13 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:11:13 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:11:22 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:11:22 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:11:22 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:11:22 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:11:22 AM
+Detalle: trama: 
+?0  42345 63464
+Fecha: 09-Jun-18 12:11:22 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:11:22 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:11:22 AM
+Detalle: trama: 
+?0  42345 63464
+Fecha: 09-Jun-18 12:11:22 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:11:22 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:11:23 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:11:24 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:11:24 AM
+Detalle: Error calculando el peso neto: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Fecha: 09-Jun-18 12:11:24 AM
+Detalle: Error calculando el peso neto: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Fecha: 09-Jun-18 12:11:24 AM
+Detalle: Error calculando el peso neto: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Fecha: 09-Jun-18 12:11:24 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:11:24 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:11:25 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:11:25 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:11:25 AM
+Detalle: trama: 
+?0  42345 63464
+Fecha: 09-Jun-18 12:11:25 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:11:25 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:11:25 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:11:25 AM
+Detalle: trama: 
+?0  42345 63464
+Fecha: 09-Jun-18 12:11:25 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:11:25 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:11:25 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:11:25 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:11:28 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:11:28 AM
+Detalle: trama: 
+?0  42345 63464
+Fecha: 09-Jun-18 12:11:28 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:11:28 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:11:28 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:11:29 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:11:31 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:11:31 AM
+Detalle: trama: 
+?0  42345 63464
+Fecha: 09-Jun-18 12:11:31 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:11:31 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:11:31 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:11:32 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:11:43 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:11:43 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:11:43 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:11:43 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:11:43 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:11:44 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:11:46 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:11:46 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:11:46 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:11:46 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:11:46 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:11:47 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:11:47 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:11:49 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:11:49 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:11:49 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:11:49 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:11:49 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:11:50 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:11:52 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:11:52 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:11:52 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:11:52 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:11:52 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:11:53 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:11:55 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:11:55 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:11:55 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:11:55 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:11:55 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:11:56 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:11:58 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:11:58 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:11:58 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:11:58 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:11:58 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:11:59 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:12:01 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:01 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:12:01 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:12:01 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:12:01 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:02 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:12:04 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:04 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:12:04 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:04 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:12:04 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:12:05 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:12:07 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:07 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:12:07 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:07 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:12:07 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:12:08 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:12:10 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:10 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:12:10 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:10 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:12:10 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:12:11 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:12:13 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:13 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:13 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:12:13 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:12:13 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:12:13 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:12:14 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:12:16 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:16 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:12:16 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:12:16 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:12:16 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:17 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:12:19 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:19 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:12:19 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:19 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:12:19 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:12:20 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:12:22 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:22 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:12:22 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:12:22 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:12:22 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:22 AM
+Detalle: Error calculando el peso neto: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:12:23 AM
+Detalle: Error calculando el peso neto: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:12:23 AM
+Detalle: Error calculando el peso neto: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:12:23 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:12:25 AM
+Detalle: Error calculando el peso neto: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:12:25 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:25 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:12:25 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:12:25 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:12:25 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:26 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:12:28 AM
+Detalle: Error calculando el peso neto: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:12:28 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:28 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:12:28 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:28 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:12:28 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:12:29 AM
+Detalle: Error calculando el peso neto: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:12:29 AM
+Detalle: Error calculando el peso neto: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:12:29 AM
+Detalle: Error calculando el peso neto: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:12:29 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:12:31 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:31 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:12:31 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:31 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:12:31 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:12:32 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:12:34 AM
+Detalle: Error calculando el peso neto: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Fecha: 09-Jun-18 12:12:34 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:34 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:12:34 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:34 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:12:34 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:12:34 AM
+Detalle: Error calculando el peso neto: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Fecha: 09-Jun-18 12:12:35 AM
+Detalle: Error calculando el peso neto: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:12:35 AM
+Detalle: Error calculando el peso neto: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:12:35 AM
+Detalle: Error calculando el peso neto: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:12:35 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:12:36 AM
+Detalle: Error calculando el peso neto: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:12:36 AM
+Detalle: Error calculando el peso neto: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:12:36 AM
+Detalle: Error calculando el peso neto: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:12:36 AM
+Detalle: Error calculando el peso neto: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:12:36 AM
+Detalle: Error calculando el peso neto: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:12:36 AM
+Detalle: Error calculando el peso neto: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Fecha: 09-Jun-18 12:12:37 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:37 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:12:37 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:37 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:12:37 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:12:38 AM
+Detalle: Error calculando el peso neto: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:12:38 AM
+Detalle: Error calculando el peso neto: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:12:38 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:12:39 AM
+Detalle: grabarOperacion: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:12:40 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:40 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:12:40 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:12:40 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:12:40 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:41 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:12:41 AM
+Detalle: Error calculando el peso neto: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Fecha: 09-Jun-18 12:12:41 AM
+Detalle: Error calculando el peso neto: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Fecha: 09-Jun-18 12:12:43 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:43 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:12:43 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:43 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:12:43 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:12:44 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:12:46 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:46 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:12:46 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:12:46 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:12:46 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:47 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:12:48 AM
+Detalle: Error calculando el peso neto: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:12:49 AM
+Detalle: Error calculando el peso neto: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:12:49 AM
+Detalle: Error calculando el peso neto: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:12:49 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:49 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:12:49 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:49 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:12:49 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:12:50 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:12:52 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:52 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:12:52 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:12:52 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:12:52 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:53 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:12:53 AM
+Detalle: Error calculando el peso neto: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:12:53 AM
+Detalle: Error calculando el peso neto: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:12:53 AM
+Detalle: Error calculando el peso neto: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:12:54 AM
+Detalle: Error calculando el peso neto: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:12:54 AM
+Detalle: Error calculando el peso neto: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:12:54 AM
+Detalle: Error calculando el peso neto: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:12:54 AM
+Detalle: Error calculando el peso neto: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:12:54 AM
+Detalle: Error calculando el peso neto: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:12:55 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:55 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:12:55 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:12:55 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:12:55 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:56 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:12:58 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:58 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:12:58 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:12:58 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:12:58 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:12:59 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:13:01 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:13:01 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:13:01 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:13:01 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:13:01 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:13:02 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:13:04 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:13:04 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:13:04 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:13:04 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:13:04 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:13:05 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:13:07 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:13:07 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:13:07 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:13:07 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:13:07 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:13:08 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:13:10 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:13:10 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:13:10 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:13:10 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:13:10 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:13:11 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:13:13 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:13:13 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:13:13 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:13:13 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:13:13 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:13:14 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:13:15 AM
+Detalle: Error calculando el peso neto: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Fecha: 09-Jun-18 12:13:15 AM
+Detalle: Error calculando el peso neto: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Fecha: 09-Jun-18 12:13:16 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:13:16 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:13:16 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:13:16 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:13:16 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:13:17 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:13:19 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:13:19 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:13:19 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:13:19 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:13:19 AM
+Detalle: Ticket Generado:010-000004
+Fecha: 09-Jun-18 12:13:19 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:13:20 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:13:22 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:13:22 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:13:22 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:13:22 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:13:22 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:13:23 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:13:25 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:13:25 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:13:25 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:13:25 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:13:25 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:13:26 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:13:28 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:13:28 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:13:28 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:13:28 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:13:28 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:13:29 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:13:31 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:13:31 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:13:31 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:13:31 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:13:31 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:13:32 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:13:34 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:13:34 AM
+Detalle: trama: 
+?0  23435 63464
+Fecha: 09-Jun-18 12:13:34 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:13:34 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:13:34 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:13:35 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:13:36 AM
+Detalle: DisposeSerial
+Fecha: 09-Jun-18 12:13:36 AM
+Detalle: DisposeSerial
+Fecha: 09-Jun-18 12:19:51 AM
+Detalle: Ticket Generado:010-000004
+Fecha: 09-Jun-18 12:20:20 AM
+Detalle: puertoSerial: COM2
+Fecha: 09-Jun-18 12:20:20 AM
+Detalle: baudRateSerial:9600
+Fecha: 09-Jun-18 12:20:20 AM
+Detalle: dataBitsSerial: 8
+Fecha: 09-Jun-18 12:20:20 AM
+Detalle: StartListening
+Fecha: 09-Jun-18 12:20:23 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:20:23 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:20:23 AM
+Detalle: trama: ?0 45234 33434
+Fecha: 09-Jun-18 12:20:23 AM
+Detalle: tamanio: 14
+Fecha: 09-Jun-18 12:20:23 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:20:23 AM
+Detalle: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 09-Jun-18 12:20:23 AM
+Detalle: Error leyendo puerto: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 09-Jun-18 12:20:24 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:20:26 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:20:26 AM
+Detalle: trama: 
+?0 45234 33434
+Fecha: 09-Jun-18 12:20:26 AM
+Detalle: tamanio: 15
+Fecha: 09-Jun-18 12:20:26 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:20:26 AM
+Detalle: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 09-Jun-18 12:20:26 AM
+Detalle: Error leyendo puerto: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 09-Jun-18 12:20:26 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:20:27 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:20:29 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:20:29 AM
+Detalle: trama: 
+?0 45234 33434
+Fecha: 09-Jun-18 12:20:29 AM
+Detalle: tamanio: 15
+Fecha: 09-Jun-18 12:20:29 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:20:29 AM
+Detalle: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 09-Jun-18 12:20:29 AM
+Detalle: Error leyendo puerto: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 09-Jun-18 12:20:29 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:20:30 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:20:32 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:20:32 AM
+Detalle: trama: 
+?0 45234 33434
+Fecha: 09-Jun-18 12:20:32 AM
+Detalle: tamanio: 15
+Fecha: 09-Jun-18 12:20:32 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:20:32 AM
+Detalle: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 09-Jun-18 12:20:32 AM
+Detalle: Error leyendo puerto: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 09-Jun-18 12:20:32 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:20:33 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:20:35 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:20:35 AM
+Detalle: trama: 
+?0 45234 33434
+Fecha: 09-Jun-18 12:20:35 AM
+Detalle: tamanio: 15
+Fecha: 09-Jun-18 12:20:35 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:20:35 AM
+Detalle: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 09-Jun-18 12:20:35 AM
+Detalle: Error leyendo puerto: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 09-Jun-18 12:20:35 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:20:36 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:20:48 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:20:48 AM
+Detalle: trama: 
+?0  45234  33434
+Fecha: 09-Jun-18 12:20:48 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:20:48 AM
+Detalle: tamanio: 17
+Fecha: 09-Jun-18 12:20:48 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:20:48 AM
+Detalle: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 09-Jun-18 12:20:48 AM
+Detalle: Error leyendo puerto: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 09-Jun-18 12:20:49 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:20:56 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:20:56 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:20:56 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:20:56 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:20:56 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:20:57 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:20:59 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:20:59 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:20:59 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:20:59 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:20:59 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:00 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:21:02 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:02 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:21:02 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:02 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:21:02 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:21:03 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:21:05 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:05 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:21:05 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:21:05 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:21:05 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:06 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:21:08 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:21:08 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:08 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:21:08 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:21:08 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:21:08 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:09 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:21:11 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:11 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:21:11 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:21:11 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:21:11 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:12 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:21:14 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:14 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:21:14 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:14 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:21:14 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:21:15 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:21:17 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:17 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:21:17 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:21:17 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:21:17 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:18 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:21:20 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:20 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:21:20 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:21:20 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:21:20 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:21 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:21:23 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:23 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:21:23 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:21:23 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:21:23 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:24 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:21:26 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:26 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:21:26 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:21:26 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:21:26 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:27 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:21:29 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:29 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:21:29 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:21:29 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:21:29 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:30 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:21:32 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:32 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:21:32 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:21:32 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:21:32 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:33 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:21:35 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:35 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:21:35 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:21:35 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:21:35 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:36 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:21:38 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:38 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:21:38 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:21:38 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:21:38 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:39 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:21:41 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:41 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:21:41 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:21:41 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:21:41 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:42 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:21:44 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:44 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:21:44 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:21:44 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:21:44 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:45 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:21:47 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:47 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:21:47 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:47 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:21:47 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:21:48 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:21:50 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:50 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:21:50 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:50 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:21:50 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:21:51 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:21:53 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:53 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:21:53 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:53 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:21:53 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:21:54 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:21:56 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:56 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:21:56 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:56 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:21:56 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:21:57 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:21:59 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:59 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:21:59 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:21:59 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:21:59 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:22:00 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:22:02 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:22:02 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:22:02 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:22:02 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:22:02 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:22:03 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:22:05 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:22:05 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:22:05 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:22:05 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:22:05 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:22:06 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:22:08 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:22:08 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:22:08 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:22:08 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:22:08 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:22:09 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:22:11 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:22:11 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:22:11 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:22:11 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:22:11 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:22:12 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:22:14 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:22:14 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:22:14 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:22:14 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:22:14 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:22:15 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:22:17 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:22:17 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:22:17 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:22:17 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:22:17 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:22:18 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:22:20 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:22:20 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:22:20 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:22:20 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:22:20 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:22:21 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:22:23 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:22:23 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:22:23 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:22:23 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:22:23 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:22:24 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:22:26 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:22:26 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:22:26 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:22:26 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:22:26 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:22:27 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:22:29 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:22:29 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:22:29 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:22:29 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:22:29 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:22:30 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:22:32 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:22:32 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:22:32 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:22:32 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:22:32 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:22:33 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:22:35 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:22:35 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:22:35 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:22:35 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:22:35 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:22:36 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:22:38 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:22:38 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:22:38 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:22:38 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:22:38 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:22:39 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:22:41 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:22:41 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:22:41 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:22:41 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:22:41 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:22:42 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:22:44 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:22:44 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:22:44 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:22:44 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:22:44 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:22:45 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:22:47 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:22:47 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:22:47 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:22:47 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:22:47 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:22:48 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:30:21 AM
+Detalle: Ticket Generado:010-000004
+Fecha: 09-Jun-18 12:30:33 AM
+Detalle: puertoSerial: COM2
+Fecha: 09-Jun-18 12:30:33 AM
+Detalle: baudRateSerial:9600
+Fecha: 09-Jun-18 12:30:33 AM
+Detalle: dataBitsSerial: 8
+Fecha: 09-Jun-18 12:30:33 AM
+Detalle: StartListening
+Fecha: 09-Jun-18 12:30:33 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:30:33 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:30:33 AM
+Detalle: trama: ?0  45234 33434
+Fecha: 09-Jun-18 12:30:33 AM
+Detalle: tamanio: 15
+Fecha: 09-Jun-18 12:30:33 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:30:33 AM
+Detalle: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 09-Jun-18 12:30:33 AM
+Detalle: Error leyendo puerto: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 09-Jun-18 12:30:34 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:30:36 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:30:36 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:30:36 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:30:36 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:30:36 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:30:37 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:30:39 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:30:39 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:30:39 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:30:39 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:30:39 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:30:39 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:30:40 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:30:42 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:30:42 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:30:42 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:30:42 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:30:42 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:30:43 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:30:45 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:30:45 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:30:45 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:30:45 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:30:45 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:30:46 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:30:48 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:30:48 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:30:48 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:30:48 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:30:48 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:30:49 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:30:51 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:30:51 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:30:51 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:30:51 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:30:51 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:30:52 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:30:53 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:30:54 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:30:54 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:30:54 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:30:54 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:30:54 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:30:55 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:30:57 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:30:57 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:30:57 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:30:57 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:30:57 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:30:58 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:31:00 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:00 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:31:00 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:31:00 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:31:00 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:01 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:31:03 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:03 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:31:03 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:31:03 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:31:03 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:04 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:31:04 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:31:06 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:06 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:31:06 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:31:06 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:31:06 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:07 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:31:09 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:09 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:31:09 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:09 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:31:09 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:31:10 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:31:12 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:12 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:31:12 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:12 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:31:12 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:31:13 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:31:15 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:15 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:31:15 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:15 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:31:15 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:31:16 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:31:18 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:18 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:31:18 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:31:18 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:31:18 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:19 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:31:21 AM
+Detalle: grabarOperacion: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:31:21 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:21 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:31:21 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:31:21 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:31:21 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:22 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:31:24 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:24 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:31:24 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:31:24 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:31:24 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:25 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:31:27 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:27 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:31:27 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:31:27 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:31:27 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:28 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:31:30 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:30 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:31:30 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:31:30 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:31:30 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:30 AM
+Detalle: grabarOperacion: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:31:31 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:31:33 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:33 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:31:33 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:33 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:31:33 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:31:34 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:31:36 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:36 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:31:36 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:31:36 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:31:36 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:37 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:31:39 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:39 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:31:39 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:31:39 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:31:39 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:40 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:31:42 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:42 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:31:42 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:31:42 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:31:42 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:43 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:31:45 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:45 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:31:45 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:31:45 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:31:45 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:46 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:31:48 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:48 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:48 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:31:48 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:31:48 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:31:49 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:31:51 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:51 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:31:51 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:31:51 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:51 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:31:52 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:31:54 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:54 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:31:54 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:31:54 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:31:54 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:55 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:31:57 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:57 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:31:57 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:31:57 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:31:57 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:31:59 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:32:00 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:32:00 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:32:00 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:32:00 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:32:00 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:32:01 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:32:03 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:32:03 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:32:03 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:32:03 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:32:03 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:32:04 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:32:05 AM
+Detalle: Ticket Generado:010-000005
+Fecha: 09-Jun-18 12:32:06 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:32:06 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:32:06 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:32:06 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:32:06 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:32:07 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:32:09 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:32:09 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:32:09 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:32:09 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:32:09 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:32:10 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:32:11 AM
+Detalle: DisposeSerial
+Fecha: 09-Jun-18 12:32:11 AM
+Detalle: DisposeSerial
+Fecha: 09-Jun-18 12:42:30 AM
+Detalle: Ticket Generado:010-000005
+Fecha: 09-Jun-18 12:42:34 AM
+Detalle: puertoSerial: COM2
+Fecha: 09-Jun-18 12:42:34 AM
+Detalle: baudRateSerial:9600
+Fecha: 09-Jun-18 12:42:34 AM
+Detalle: dataBitsSerial: 8
+Fecha: 09-Jun-18 12:42:34 AM
+Detalle: StartListening
+Fecha: 09-Jun-18 12:42:36 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:42:36 AM
+Detalle: trama: ?0  45234 33434
+Fecha: 09-Jun-18 12:42:36 AM
+Detalle: tamanio: 15
+Fecha: 09-Jun-18 12:42:36 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:42:36 AM
+Detalle: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 09-Jun-18 12:42:36 AM
+Detalle: Error leyendo puerto: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 09-Jun-18 12:42:37 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:42:38 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:42:39 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:42:39 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:42:39 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:42:40 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:42:40 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:42:40 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:42:42 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:42:42 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:42:42 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:42:42 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:42:43 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:42:44 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:42:45 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:42:45 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:42:45 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:42:45 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:42:46 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:42:46 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:42:47 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:42:48 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:42:48 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:42:48 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:42:48 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:42:49 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:42:50 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:42:51 AM
+Detalle: Error calculando el peso neto: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Fecha: 09-Jun-18 12:42:51 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:42:51 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:42:51 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:42:51 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:42:52 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:42:53 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:42:53 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:42:54 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:42:54 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:42:54 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:42:54 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:42:54 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:42:55 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:42:57 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:42:57 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:42:57 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:42:57 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:42:58 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:42:59 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:43:00 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:00 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:43:00 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:43:00 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:43:01 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:02 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:43:03 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:03 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:04 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:43:04 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:43:04 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:43:04 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:43:06 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:06 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:43:06 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:43:06 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:43:07 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:08 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:43:09 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:09 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:43:09 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:43:09 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:43:10 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:10 AM
+Detalle: Ticket Generado:010-000006
+Fecha: 09-Jun-18 12:43:11 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:43:12 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:12 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:43:12 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:43:12 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:13 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:43:13 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:43:15 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:15 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:43:15 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:43:15 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:43:16 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:17 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:43:19 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:19 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:43:19 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:43:19 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:43:19 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:20 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:43:22 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:22 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:43:22 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:43:22 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:43:22 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:22 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:43:23 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:43:25 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:25 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:43:25 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:43:25 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:43:25 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:26 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:43:28 AM
+Detalle: Error calculando el peso neto: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Fecha: 09-Jun-18 12:43:28 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:28 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:28 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:43:28 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:43:28 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:43:28 AM
+Detalle: Error calculando el peso neto: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Fecha: 09-Jun-18 12:43:29 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:43:29 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:43:29 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:43:29 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:43:29 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:43:29 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:43:30 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:30 AM
+Detalle: trama: 
+?0  45234 33434
+Fecha: 09-Jun-18 12:43:31 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:43:31 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:43:31 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:32 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:43:38 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:38 AM
+Detalle: trama: 
+?0  64353 33434
+Fecha: 09-Jun-18 12:43:38 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:38 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:43:38 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:43:38 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:43:38 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:43:38 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:43:38 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:43:38 AM
+Detalle: Error calculando el peso neto: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Fecha: 09-Jun-18 12:43:39 AM
+Detalle: Error calculando el peso neto: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Fecha: 09-Jun-18 12:43:39 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:43:39 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:43:39 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:43:40 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:43:40 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:43:41 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:43:41 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:41 AM
+Detalle: trama: 
+?0  64353 33434
+Fecha: 09-Jun-18 12:43:41 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:43:41 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:43:41 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:42 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:43:43 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:43:44 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:43:44 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:43:44 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:44 AM
+Detalle: trama: 
+?0  64353 33434
+Fecha: 09-Jun-18 12:43:44 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:44 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:43:44 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:43:45 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:43:47 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:43:47 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:47 AM
+Detalle: trama: 
+?0  64353 33434
+Fecha: 09-Jun-18 12:43:47 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:43:47 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:43:47 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:48 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:43:55 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:55 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:43:55 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:56 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:43:56 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:43:56 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:43:58 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:43:58 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:43:58 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:43:58 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:43:58 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:43:59 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:00 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:44:01 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:01 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:44:01 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:02 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:44:02 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:44:02 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:44:02 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:44:02 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:44:02 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:44:02 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:44:03 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:44:03 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:44:04 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:04 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:44:04 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:44:04 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:44:04 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:05 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:44:07 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:07 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:44:07 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:08 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:44:08 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:44:08 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:44:10 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:10 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:44:10 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:44:10 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:44:10 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:11 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:44:13 AM
+Detalle: grabarOperacion: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:44:13 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:13 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:44:13 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:44:13 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:44:14 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:15 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:44:16 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:16 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:44:16 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:17 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:44:17 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:44:17 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:44:19 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:19 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:44:19 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:44:19 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:44:20 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:21 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:44:21 AM
+Detalle: grabarOperacion: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:44:22 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:22 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:44:22 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:44:22 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:44:23 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:24 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:44:25 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:25 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:44:25 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:44:25 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:44:26 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:27 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:44:28 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:28 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:44:28 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:44:28 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:44:29 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:30 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:44:31 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:31 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:44:31 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:32 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:44:32 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:44:32 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:44:34 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:34 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:44:34 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:44:34 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:44:35 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:36 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:44:37 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:37 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:44:37 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:38 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:44:38 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:44:38 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:44:40 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:40 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:44:40 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:44:40 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:44:41 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:42 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:44:43 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:43 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:44:43 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:44:43 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:44:44 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:45 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:44:46 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:46 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:44:46 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:44:46 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:44:47 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:48 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:44:49 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:49 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:44:49 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:44:49 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:44:50 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:51 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:44:52 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:52 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:44:52 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:44:52 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:44:53 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:54 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:44:55 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:55 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:44:55 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:44:55 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:44:56 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:57 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:44:58 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:44:58 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:44:58 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:44:58 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:44:59 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:45:00 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:45:01 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:45:01 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:45:01 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:45:01 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:45:02 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:45:03 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:45:04 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:45:04 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:45:04 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:45:05 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:45:05 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:45:05 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:45:07 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:45:07 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:45:07 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:45:07 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:45:08 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:45:09 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:45:14 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:45:17 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:45:18 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:45:18 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:45:24 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:45:24 AM
+Detalle: grabarOperacion: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:45:24 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:45:24 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:45:24 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:45:24 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:45:24 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:45:24 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:45:24 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:45:24 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:45:24 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:45:24 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:45:24 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:45:24 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:45:24 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:45:24 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:45:24 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:45:24 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:45:24 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:45:24 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:45:25 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:45:25 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:45:25 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:45:26 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:45:26 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:45:26 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:45:26 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:45:26 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:45:27 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:46:04 AM
+Detalle: Ticket Generado:010-000006
+Fecha: 09-Jun-18 12:46:07 AM
+Detalle: puertoSerial: COM2
+Fecha: 09-Jun-18 12:46:07 AM
+Detalle: baudRateSerial:9600
+Fecha: 09-Jun-18 12:46:07 AM
+Detalle: dataBitsSerial: 8
+Fecha: 09-Jun-18 12:46:07 AM
+Detalle: StartListening
+Fecha: 09-Jun-18 12:46:08 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:08 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:08 AM
+Detalle: trama: ?0  12343 33434
+Fecha: 09-Jun-18 12:46:08 AM
+Detalle: tamanio: 15
+Fecha: 09-Jun-18 12:46:08 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:46:08 AM
+Detalle: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 09-Jun-18 12:46:08 AM
+Detalle: Error leyendo puerto: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 09-Jun-18 12:46:09 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:46:11 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:11 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:11 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:46:11 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:46:11 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:46:12 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:46:14 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:14 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:46:14 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:46:14 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:46:14 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:15 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:46:17 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:17 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:46:17 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:46:17 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:46:17 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:18 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:46:20 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:20 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:46:20 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:46:20 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:46:20 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:21 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:46:22 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:23 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:23 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:46:23 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:23 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:46:23 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:46:23 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:23 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:24 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:46:24 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:24 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:25 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:25 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:26 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:26 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:46:26 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:46:26 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:46:26 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:27 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:46:27 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:29 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:29 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:46:29 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:46:29 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:46:29 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:30 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:46:32 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:32 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:46:32 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:46:32 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:46:32 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:33 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:46:33 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:33 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:33 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:33 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:33 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:33 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:33 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:33 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:33 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:33 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:33 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:34 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:35 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:35 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:46:35 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:35 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:46:35 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:46:36 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:46:38 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:38 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:46:38 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:46:38 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:46:38 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:39 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:46:41 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:41 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:46:41 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:41 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:46:41 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:46:42 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:46:44 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:44 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:44 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:44 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:44 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:44 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:44 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:44 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:46:44 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:46:44 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:46:44 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:44 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:44 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:44 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:44 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:44 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:45 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:46:47 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:47 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:46:47 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:47 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:46:47 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:46:48 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:46:48 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:49 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:49 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:46:50 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:50 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:46:50 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:50 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:46:50 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:46:51 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:46:55 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:55 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:56 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:46:58 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:46:58 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:47:04 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:47:05 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:47:06 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:47:07 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:47:07 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:47:14 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:47:15 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:47:17 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:47:17 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:47:17 AM
+Detalle: grabarOperacion: Input string was not in a correct format.
+Fecha: 09-Jun-18 12:47:17 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:47:17 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:47:17 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:47:17 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:47:17 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:47:17 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:47:17 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:47:17 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:47:17 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:47:17 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:47:17 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:47:17 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:47:17 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:47:17 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:47:17 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:47:17 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:47:17 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:47:17 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:47:17 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:47:17 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:47:17 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:47:17 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:47:17 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:47:17 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:47:17 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:47:17 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:47:17 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:47:18 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:47:18 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:47:19 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:47:19 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:47:20 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:47:20 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:47:20 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:47:20 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:47:30 AM
+Detalle: Ticket Generado:010-000006
+Fecha: 09-Jun-18 12:47:34 AM
+Detalle: puertoSerial: COM1
+Fecha: 09-Jun-18 12:47:34 AM
+Detalle: baudRateSerial:9600
+Fecha: 09-Jun-18 12:47:34 AM
+Detalle: dataBitsSerial: 8
+Fecha: 09-Jun-18 12:47:34 AM
+Detalle: StartListening
+Fecha: 09-Jun-18 12:47:34 AM
+Detalle: StartListeningException: Access to the port 'COM1' is denied.
+Fecha: 09-Jun-18 12:47:41 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:47:42 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:47:45 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:47:45 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:47:45 AM
+Detalle: Error calculando el peso neto: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Fecha: 09-Jun-18 12:47:51 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:47:51 AM
+Detalle: Error calculando el peso neto: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Fecha: 09-Jun-18 12:47:52 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:47:52 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:47:55 AM
+Detalle: puertoSerial: COM2
+Fecha: 09-Jun-18 12:47:55 AM
+Detalle: baudRateSerial:9600
+Fecha: 09-Jun-18 12:47:55 AM
+Detalle: dataBitsSerial: 8
+Fecha: 09-Jun-18 12:47:55 AM
+Detalle: StartListening
+Fecha: 09-Jun-18 12:47:55 AM
+Detalle: Error calculando el peso neto: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Fecha: 09-Jun-18 12:47:55 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:47:55 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:47:56 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:47:56 AM
+Detalle: trama: ?0  12343 33434
+Fecha: 09-Jun-18 12:47:56 AM
+Detalle: tamanio: 15
+Fecha: 09-Jun-18 12:47:56 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:47:56 AM
+Detalle: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 09-Jun-18 12:47:56 AM
+Detalle: Error leyendo puerto: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 09-Jun-18 12:47:56 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:47:56 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:47:57 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:47:59 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:47:59 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:47:59 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:47:59 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:47:59 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:48:00 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:48:00 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:48:02 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:48:02 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:48:02 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:48:02 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:48:02 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:48:03 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:48:05 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:48:05 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:48:05 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:48:05 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:48:05 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:48:05 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:48:05 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:48:05 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:48:05 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:48:05 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:48:05 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:48:05 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:48:05 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:48:05 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:48:05 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:48:05 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:48:06 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:48:08 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:48:08 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:48:08 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:48:08 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:48:08 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:48:09 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:48:11 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:48:11 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:48:11 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:48:11 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:48:11 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:48:12 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:48:14 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:48:14 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:48:14 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:48:14 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:48:14 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:48:15 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:48:16 AM
+Detalle: Error calculando el peso neto: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Fecha: 09-Jun-18 12:48:16 AM
+Detalle: Error calculando el peso neto: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Fecha: 09-Jun-18 12:48:17 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:48:17 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:48:17 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:48:17 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:48:17 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:48:17 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:48:17 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:48:17 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:48:17 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:48:17 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:48:17 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:48:17 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:48:17 AM
+Detalle: Error calculando el peso neto: Object reference not set to an instance of an object.
+Fecha: 09-Jun-18 12:48:18 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:48:20 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:48:20 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:48:20 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:48:20 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:48:20 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:48:21 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:48:23 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:48:23 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:48:23 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:48:23 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:48:23 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:48:24 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:48:27 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:48:27 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:48:27 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:48:27 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:48:27 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:48:28 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:48:29 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:48:29 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:48:29 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:48:29 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:48:29 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:48:30 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:48:32 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:48:32 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:48:32 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:48:32 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:48:32 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:48:33 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:48:40 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:48:40 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:48:40 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:48:40 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:48:40 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:48:40 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:48:40 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:48:40 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:48:41 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:48:41 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:48:41 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:48:41 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:48:41 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:48:42 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:48:44 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:48:44 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:48:44 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:48:44 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:48:44 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:48:45 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:48:46 AM
+Detalle: Error calculando el peso neto: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Fecha: 09-Jun-18 12:48:47 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:48:47 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:48:47 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:48:47 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:48:47 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:48:48 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:48:50 AM
+Detalle: Ticket Generado:010-000007
+Fecha: 09-Jun-18 12:48:50 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:48:50 AM
+Detalle: trama: 
+?0  12343 33434
+Fecha: 09-Jun-18 12:48:50 AM
+Detalle: tamanio: 16
+Fecha: 09-Jun-18 12:48:50 AM
+Detalle: Salto inicio trama: True
+Fecha: 09-Jun-18 12:48:50 AM
+Detalle: _serialPort_DataReceived
+Fecha: 09-Jun-18 12:48:51 AM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 09-Jun-18 12:48:53 AM
+Detalle: DisposeSerial
+Fecha: 09-Jun-18 12:48:53 AM
+Detalle: DisposeSerial
+Fecha: 09-Jun-18 12:48:53 AM
+Detalle: DisposeSerial

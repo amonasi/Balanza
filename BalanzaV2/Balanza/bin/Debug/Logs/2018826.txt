@@ -1,0 +1,3179 @@
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DETALLE_GRUPO.CODGRUPO, DETALLE_GRUPO.VALOR
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ID_CENTRAL
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ES_NEGATIVO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DETALLE_GRUPO.CODGRUPO, DETALLE_GRUPO.VALOR
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:08:28 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ID_CENTRAL
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ES_NEGATIVO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DETALLE_GRUPO.CODGRUPO, DETALLE_GRUPO.VALOR
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ID_CENTRAL
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ES_NEGATIVO
+Fecha: 26-Aug-18 4:08:29 PM
+Detalle: Ticket Generado:010-000014
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DETALLE_GRUPO.CODGRUPO, DETALLE_GRUPO.VALOR
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ID_CENTRAL
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ES_NEGATIVO
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: puertoSerial: COM2
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: baudRateSerial:9600
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: dataBitsSerial: 8
+Fecha: 26-Aug-18 4:08:58 PM
+Detalle: StartListening
+Fecha: 26-Aug-18 4:08:59 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:08:59 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:08:59 PM
+Detalle: trama: ?0   1235312341
+Fecha: 26-Aug-18 4:08:59 PM
+Detalle: tamanio: 15
+Fecha: 26-Aug-18 4:08:59 PM
+Detalle: Salto inicio trama: True
+Fecha: 26-Aug-18 4:08:59 PM
+Detalle: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 26-Aug-18 4:09:00 PM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 26-Aug-18 4:09:02 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:09:02 PM
+Detalle: trama: 
+?0   1235312341
+Fecha: 26-Aug-18 4:09:02 PM
+Detalle: tamanio: 16
+Fecha: 26-Aug-18 4:09:02 PM
+Detalle: Salto inicio trama: True
+Fecha: 26-Aug-18 4:09:02 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:09:03 PM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 26-Aug-18 4:09:05 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:09:05 PM
+Detalle: trama: 
+?0   1235312341
+Fecha: 26-Aug-18 4:09:05 PM
+Detalle: tamanio: 16
+Fecha: 26-Aug-18 4:09:05 PM
+Detalle: Salto inicio trama: True
+Fecha: 26-Aug-18 4:09:05 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:09:06 PM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 26-Aug-18 4:09:08 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:09:08 PM
+Detalle: trama: 
+?0   1235312341
+Fecha: 26-Aug-18 4:09:08 PM
+Detalle: tamanio: 16
+Fecha: 26-Aug-18 4:09:08 PM
+Detalle: Salto inicio trama: True
+Fecha: 26-Aug-18 4:09:08 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:09:09 PM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 26-Aug-18 4:09:10 PM
+Detalle: Revisar fila con datos de peso bruto, peso neto o cantidad vacios: Indice:0
+Fecha: 26-Aug-18 4:09:11 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:09:11 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:09:11 PM
+Detalle: trama: 
+?0   1235312341
+Fecha: 26-Aug-18 4:09:11 PM
+Detalle: tamanio: 16
+Fecha: 26-Aug-18 4:09:11 PM
+Detalle: Salto inicio trama: True
+Fecha: 26-Aug-18 4:09:12 PM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 26-Aug-18 4:09:14 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:09:14 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:09:14 PM
+Detalle: trama: 
+?0   1235312341
+Fecha: 26-Aug-18 4:09:14 PM
+Detalle: tamanio: 16
+Fecha: 26-Aug-18 4:09:14 PM
+Detalle: Salto inicio trama: True
+Fecha: 26-Aug-18 4:09:15 PM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 26-Aug-18 4:09:15 PM
+Detalle: Error calculando el peso neto: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Fecha: 26-Aug-18 4:09:15 PM
+Detalle: Error calculando el peso neto: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Fecha: 26-Aug-18 4:09:17 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:09:17 PM
+Detalle: trama: 
+?0   1235312341
+Fecha: 26-Aug-18 4:09:17 PM
+Detalle: tamanio: 16
+Fecha: 26-Aug-18 4:09:17 PM
+Detalle: Salto inicio trama: True
+Fecha: 26-Aug-18 4:09:17 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:09:18 PM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 26-Aug-18 4:09:20 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:09:20 PM
+Detalle: trama: 
+?0   1235312341
+Fecha: 26-Aug-18 4:09:20 PM
+Detalle: tamanio: 16
+Fecha: 26-Aug-18 4:09:20 PM
+Detalle: Salto inicio trama: True
+Fecha: 26-Aug-18 4:09:20 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:09:21 PM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 26-Aug-18 4:09:23 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:09:23 PM
+Detalle: trama: 
+?0   1235312341
+Fecha: 26-Aug-18 4:09:23 PM
+Detalle: tamanio: 16
+Fecha: 26-Aug-18 4:09:23 PM
+Detalle: Salto inicio trama: True
+Fecha: 26-Aug-18 4:09:23 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:09:24 PM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 26-Aug-18 4:09:26 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:09:26 PM
+Detalle: trama: 
+?0   1235312341
+Fecha: 26-Aug-18 4:09:26 PM
+Detalle: tamanio: 16
+Fecha: 26-Aug-18 4:09:26 PM
+Detalle: Salto inicio trama: True
+Fecha: 26-Aug-18 4:09:26 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:09:27 PM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 26-Aug-18 4:09:34 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:09:34 PM
+Detalle: trama: 
+?0    235312341
+Fecha: 26-Aug-18 4:09:34 PM
+Detalle: tamanio: 16
+Fecha: 26-Aug-18 4:09:34 PM
+Detalle: Salto inicio trama: True
+Fecha: 26-Aug-18 4:09:34 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:09:35 PM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 26-Aug-18 4:09:36 PM
+Detalle: Error calculando el peso neto: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Fecha: 26-Aug-18 4:09:37 PM
+Detalle: Revisar fila con datos de peso bruto, peso neto o cantidad vacios: Indice:1
+Fecha: 26-Aug-18 4:09:37 PM
+Detalle: Revisar fila con datos de peso bruto, peso neto o cantidad vacios: Indice:1
+Fecha: 26-Aug-18 4:09:37 PM
+Detalle: Revisar fila con datos de peso bruto, peso neto o cantidad vacios: Indice:1
+Fecha: 26-Aug-18 4:09:37 PM
+Detalle: Revisar fila con datos de peso bruto, peso neto o cantidad vacios: Indice:1
+Fecha: 26-Aug-18 4:09:37 PM
+Detalle: Revisar fila con datos de peso bruto, peso neto o cantidad vacios: Indice:1
+Fecha: 26-Aug-18 4:09:37 PM
+Detalle: Revisar fila con datos de peso bruto, peso neto o cantidad vacios: Indice:1
+Fecha: 26-Aug-18 4:09:37 PM
+Detalle: Revisar fila con datos de peso bruto, peso neto o cantidad vacios: Indice:1
+Fecha: 26-Aug-18 4:09:37 PM
+Detalle: Revisar fila con datos de peso bruto, peso neto o cantidad vacios: Indice:1
+Fecha: 26-Aug-18 4:09:37 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:09:37 PM
+Detalle: trama: 
+?0    235312341
+Fecha: 26-Aug-18 4:09:37 PM
+Detalle: tamanio: 16
+Fecha: 26-Aug-18 4:09:37 PM
+Detalle: Salto inicio trama: True
+Fecha: 26-Aug-18 4:09:37 PM
+Detalle: Revisar fila con datos de peso bruto, peso neto o cantidad vacios: Indice:1
+Fecha: 26-Aug-18 4:09:37 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:09:37 PM
+Detalle: Revisar fila con datos de peso bruto, peso neto o cantidad vacios: Indice:1
+Fecha: 26-Aug-18 4:09:38 PM
+Detalle: Revisar fila con datos de peso bruto, peso neto o cantidad vacios: Indice:1
+Fecha: 26-Aug-18 4:09:38 PM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 26-Aug-18 4:09:40 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:09:40 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:09:40 PM
+Detalle: trama: 
+?0    235312341
+Fecha: 26-Aug-18 4:09:40 PM
+Detalle: tamanio: 16
+Fecha: 26-Aug-18 4:09:40 PM
+Detalle: Salto inicio trama: True
+Fecha: 26-Aug-18 4:09:41 PM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 26-Aug-18 4:09:43 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:09:43 PM
+Detalle: trama: 
+?0    235312341
+Fecha: 26-Aug-18 4:09:43 PM
+Detalle: tamanio: 16
+Fecha: 26-Aug-18 4:09:43 PM
+Detalle: Salto inicio trama: True
+Fecha: 26-Aug-18 4:09:43 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:09:44 PM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 26-Aug-18 4:09:46 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:09:46 PM
+Detalle: trama: 
+?0    235312341
+Fecha: 26-Aug-18 4:09:46 PM
+Detalle: tamanio: 16
+Fecha: 26-Aug-18 4:09:46 PM
+Detalle: Salto inicio trama: True
+Fecha: 26-Aug-18 4:09:46 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:09:47 PM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 26-Aug-18 4:09:49 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:09:49 PM
+Detalle: trama: 
+?0    235312341
+Fecha: 26-Aug-18 4:09:49 PM
+Detalle: tamanio: 16
+Fecha: 26-Aug-18 4:09:49 PM
+Detalle: Salto inicio trama: True
+Fecha: 26-Aug-18 4:09:49 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:09:50 PM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DETALLE_GRUPO.CODGRUPO, DETALLE_GRUPO.VALOR
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ID_CENTRAL
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ES_NEGATIVO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DETALLE_GRUPO.CODGRUPO, DETALLE_GRUPO.VALOR
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ID_CENTRAL
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ES_NEGATIVO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DETALLE_GRUPO.CODGRUPO, DETALLE_GRUPO.VALOR
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ID_CENTRAL
+Fecha: 26-Aug-18 4:09:54 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ES_NEGATIVO
+Fecha: 26-Aug-18 4:09:55 PM
+Detalle: Ticket Generado:010-000014
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DETALLE_GRUPO.CODGRUPO, DETALLE_GRUPO.VALOR
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ID_CENTRAL
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ES_NEGATIVO
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: puertoSerial: COM2
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: baudRateSerial:9600
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: dataBitsSerial: 8
+Fecha: 26-Aug-18 4:09:59 PM
+Detalle: StartListening
+Fecha: 26-Aug-18 4:10:01 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:10:01 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:10:01 PM
+Detalle: trama: ?0    235312341
+Fecha: 26-Aug-18 4:10:01 PM
+Detalle: tamanio: 15
+Fecha: 26-Aug-18 4:10:01 PM
+Detalle: Salto inicio trama: True
+Fecha: 26-Aug-18 4:10:01 PM
+Detalle: El tamaño de la trama es diferente al de la configuracion.
+Fecha: 26-Aug-18 4:10:02 PM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 26-Aug-18 4:10:04 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:10:04 PM
+Detalle: trama: 
+?0    235312341
+Fecha: 26-Aug-18 4:10:04 PM
+Detalle: tamanio: 16
+Fecha: 26-Aug-18 4:10:04 PM
+Detalle: Salto inicio trama: True
+Fecha: 26-Aug-18 4:10:04 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:10:05 PM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 26-Aug-18 4:10:07 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:10:07 PM
+Detalle: trama: 
+?0    235312341
+Fecha: 26-Aug-18 4:10:07 PM
+Detalle: tamanio: 16
+Fecha: 26-Aug-18 4:10:07 PM
+Detalle: Salto inicio trama: True
+Fecha: 26-Aug-18 4:10:07 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:10:08 PM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 26-Aug-18 4:10:10 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:10:10 PM
+Detalle: trama: 
+?0    235312341
+Fecha: 26-Aug-18 4:10:10 PM
+Detalle: tamanio: 16
+Fecha: 26-Aug-18 4:10:10 PM
+Detalle: Salto inicio trama: True
+Fecha: 26-Aug-18 4:10:10 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:10:11 PM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 26-Aug-18 4:10:12 PM
+Detalle: Ticket Generado:010-000015
+Fecha: 26-Aug-18 4:10:13 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:10:13 PM
+Detalle: trama: 
+?0    235312341
+Fecha: 26-Aug-18 4:10:13 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:10:13 PM
+Detalle: tamanio: 16
+Fecha: 26-Aug-18 4:10:13 PM
+Detalle: Salto inicio trama: True
+Fecha: 26-Aug-18 4:10:14 PM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 26-Aug-18 4:10:16 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:10:16 PM
+Detalle: trama: 
+?0    235312341
+Fecha: 26-Aug-18 4:10:16 PM
+Detalle: tamanio: 16
+Fecha: 26-Aug-18 4:10:16 PM
+Detalle: Salto inicio trama: True
+Fecha: 26-Aug-18 4:10:16 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:10:17 PM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 26-Aug-18 4:10:19 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:10:19 PM
+Detalle: trama: 
+?0    235312341
+Fecha: 26-Aug-18 4:10:19 PM
+Detalle: tamanio: 16
+Fecha: 26-Aug-18 4:10:19 PM
+Detalle: Salto inicio trama: True
+Fecha: 26-Aug-18 4:10:19 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:10:20 PM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 26-Aug-18 4:10:22 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:10:22 PM
+Detalle: _serialPort_DataReceived
+Fecha: 26-Aug-18 4:10:22 PM
+Detalle: trama: 
+?0    235312341
+Fecha: 26-Aug-18 4:10:22 PM
+Detalle: tamanio: 16
+Fecha: 26-Aug-18 4:10:22 PM
+Detalle: Salto inicio trama: True
+Fecha: 26-Aug-18 4:10:23 PM
+Detalle: _serialPort_DataReceivedException: The operation has timed out.
+Fecha: 26-Aug-18 4:10:24 PM
+Detalle: DisposeSerial
+Fecha: 26-Aug-18 4:10:24 PM
+Detalle: DisposeSerial
+Fecha: 26-Aug-18 5:08:00 PM
+Detalle: Ticket Generado:010-000015
+Fecha: 26-Aug-18 5:08:41 PM
+Detalle: Ticket Generado:010-000015
+Fecha: 26-Aug-18 5:09:01 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:09:01 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:09:01 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:09:01 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:09:01 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:09:01 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:09:01 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:09:01 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:09:01 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:09:01 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:09:01 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:09:01 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:09:01 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:09:01 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DETALLE_GRUPO.CODGRUPO, DETALLE_GRUPO.VALOR
+Fecha: 26-Aug-18 5:09:01 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:09:01 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:09:01 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:09:01 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:09:01 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:09:01 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:01 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:01 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:01 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:01 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:01 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:01 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:01 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:01 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ID_CENTRAL
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ES_NEGATIVO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DETALLE_GRUPO.CODGRUPO, DETALLE_GRUPO.VALOR
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:02 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ID_CENTRAL
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ES_NEGATIVO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DETALLE_GRUPO.CODGRUPO, DETALLE_GRUPO.VALOR
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ID_CENTRAL
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ES_NEGATIVO
+Fecha: 26-Aug-18 5:09:03 PM
+Detalle: Ticket Generado:010-000015
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DETALLE_GRUPO.CODGRUPO, DETALLE_GRUPO.VALOR
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:07 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:08 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:08 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:08 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:08 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:08 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:08 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:08 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:09:08 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ID_CENTRAL
+Fecha: 26-Aug-18 5:09:08 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ES_NEGATIVO
+Fecha: 26-Aug-18 5:10:11 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:10:11 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:10:11 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:10:11 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:10:11 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:10:11 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:10:11 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:10:11 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:10:11 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:10:11 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:10:11 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:10:11 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:10:11 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:10:11 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DETALLE_GRUPO.CODGRUPO, DETALLE_GRUPO.VALOR
+Fecha: 26-Aug-18 5:10:11 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:10:11 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:10:11 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ID_CENTRAL
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ES_NEGATIVO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DETALLE_GRUPO.CODGRUPO, DETALLE_GRUPO.VALOR
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ID_CENTRAL
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ES_NEGATIVO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DETALLE_GRUPO.CODGRUPO, DETALLE_GRUPO.VALOR
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ID_CENTRAL
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ES_NEGATIVO
+Fecha: 26-Aug-18 5:10:12 PM
+Detalle: Ticket Generado:010-000015
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DETALLE_GRUPO.CODGRUPO, DETALLE_GRUPO.VALOR
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ID_CENTRAL
+Fecha: 26-Aug-18 5:10:16 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ES_NEGATIVO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DETALLE_GRUPO.CODGRUPO, DETALLE_GRUPO.VALOR
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ID_CENTRAL
+Fecha: 26-Aug-18 5:11:12 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ES_NEGATIVO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DETALLE_GRUPO.CODGRUPO, DETALLE_GRUPO.VALOR
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ID_CENTRAL
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ES_NEGATIVO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DETALLE_GRUPO.CODGRUPO, DETALLE_GRUPO.VALOR
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ID_CENTRAL
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ES_NEGATIVO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DETALLE_GRUPO.CODGRUPO, DETALLE_GRUPO.VALOR
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:03 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:04 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:04 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:04 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:04 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:04 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:04 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:04 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:04 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:04 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:04 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:04 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:04 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:04 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:04 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:04 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:04 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:04 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:04 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:04 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:04 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:04 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ID_CENTRAL
+Fecha: 26-Aug-18 5:12:04 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ES_NEGATIVO
+Fecha: 26-Aug-18 5:12:04 PM
+Detalle: Ticket Generado:010-000015
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DETALLE_GRUPO.CODGRUPO, DETALLE_GRUPO.VALOR
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ID_CENTRAL
+Fecha: 26-Aug-18 5:12:06 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ES_NEGATIVO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONF_BALANZA.COD_BALANZA
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: PARAMETROS.CODIGO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: GRUPO.CODGRUPO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DETALLE_GRUPO.CODGRUPO, DETALLE_GRUPO.VALOR
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: TIPO_SACO.TIPO_SACO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: DINAMIC_CONTROLS.TIPO_OBJETO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:constraint failed
+UNIQUE constraint failed: CONFIG_CALIDAD.TIPO_GRANO, CONFIG_CALIDAD.ID_CAMPO
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ID_CENTRAL
+Fecha: 26-Aug-18 5:12:13 PM
+Detalle: Error ejecutarComando:SQL logic error
+duplicate column name: ES_NEGATIVO
